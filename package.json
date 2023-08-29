@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Danielecarn/Testes-de-aplicacoes-modernas-com-Cypress/issues"
   },
-  "homepage": "https://github.com/Danielecarn/Testes-de-aplicacoes-modernas-com-Cypress#readme"
+  "homepage": "https://github.com/Danielecarn/Testes-de-aplicacoes-modernas-com-Cypress#readme",
+  "dependencies": {
+    "cypress": "^3.6.0"
+  }
 }
